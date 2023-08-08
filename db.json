@@ -29,6 +29,18 @@
       "name": "Spiderduck",
       "img_url": "https://amsterdamduckstore.com/wp-content/uploads/2015/08/spidy-rubber-duck-leaning.jpg",
       "likes": 7
+    },
+    {
+      "name": "Duckion",
+      "img_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSFBUSFBQXFxIXEhIXFxcSGBEUGBcXFxcYGBoXFxcbICwkGx0pIBcXJTYmKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHTIpIikyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABAEAACAQICBwUGAwUHBQAAAAAAAQIDEQQhBQYSMUFRkRNhcYGxByIyUqHBFELwI2Jy0eEzU3OCktLxF0NkorL/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAQIDBAUGB//EADIRAAIBAgQCBwgDAQEAAAAAAAABAgMRBBIhMQVRE0FhobHh8CJCUnGBkcHRBjKiUxX/2gAMAwEAAhEDEQA/AOzAAAAAAAAAAAAAAAAAAApckt7LcsRBb5LqmQ2luC8DXx0pBycbTSX5nFqL8HvfQyliIPdJdbFVVg9mvuibMvApumVFyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUt2zeSRURD2kaUdDCOEXadaWxlv2LXl1yj/mAbNVpPWyvjKzwujrJK+1WfJZOSbXux77XfAR1KU1t4rFVatTe2pWivOV36GXqJo5UsJCdv2lW9ST4tN+4vDZs/NlGtmmfw8Y99aFNNxU1BbMZ1Kqi8pSSlFJPiRcoWI6lQh7+HxVWnLg241I9Fa/UqWkquEnGljNlxnlTrwyjJrhNflY1d00qtSrGM3UjTnSUargqcqsKr2LTikleM2rOydrmw1ywSrYOrf4qcXVi+Thm+q2l5mGrRhVVpL69ZaMnHYy1URodL6yqElRoQ7WvJ2UY3aT8t7IZh9ZakKDp5324xUr7ouN2vp9WS/2d6MSpvFyzqVXKMW/ywi7O3e2n0Ro0cAlJupqZZ1rr",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "name": "Bat Duck",
+      "img_url": "https://images.squarespace-cdn.com/content/v1/53208ff6e4b00fbb0f1c2d65/1640474605849-4AC8QGVMFM53Q2A1ZUY3/0B34F818-81BD-4EEC-90BF-A01F47B8AC57?format=1000w",
+      "likes": 2,
+      "id": 7
     }
   ]
 }
